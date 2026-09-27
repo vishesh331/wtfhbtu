@@ -1,0 +1,13 @@
+{
+  "name": "campus-video-chat",
+  "version": "1.0.0",
+  "description": "Random 1-on-1 video/audio chat for campus, WebRTC + Socket.io signaling",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
